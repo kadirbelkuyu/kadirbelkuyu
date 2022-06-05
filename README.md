@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kadir Belkuyu</h1>
 <h3 align="center">I'm DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **Şehir Teknolojileri Merkezi**
+- 🔭 I’m currently working on **City Technologies Center, Science Center**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
