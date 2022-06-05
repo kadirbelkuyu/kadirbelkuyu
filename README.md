@@ -1,17 +1,35 @@
-<h1 align="center">Hi 👋, I'm Kadir Belkuyu</h1>
-<h3 align="center">I'm DevOps Engineer</h3>
+## Hello World, I'm Kadir 👋
 
-- 🔭 I’m currently working on **City Technologies Center, Science Center**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/kadirbelkuyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kadirbelkuyu" height="30" width="40" /></a>
-<a href="https://dev.to/kadirbelkuyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="kadirbelkuyu" height="30" width="40" /></a>
-<a href="https://twitter.com/kadirbelkuyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kadirbelkuyu" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kadirbelkuyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadirbelkuyu" height="30" width="40" /></a>
-<a href="https://kaggle.com/kadirbelkuyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kadirbelkuyu" height="30" width="40" /></a>
-<a href="https://medium.com/kadirbelkuyu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="kadirbelkuyu" height="30" width="40" /></a>
+<img src=https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif width="400" height="400" align="right">
+
+## I am a DevOps Engineer | Cyber Security Specialist | Data Scientist 'Apprentice' !!
+- ♊️ Age: 24
+- 👨‍🎓 Education: Engineer Without Diploma
+- 👨‍💻 I am currently a DevOps Software Engineer at Konya Science Center City Technologies Unit.
+- ⚡  In this universe full of problems, it is impossible not to have solutions.
+- 🎯 Hobbies: ↠ Anime ↠ Game ↠
+- 💬 Languages: ▻ English ▻ Turkish ▻
+### Talk with me, I am kinda awesome:
+<p float="left">
+<a href="mailto:kadirbelkuyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kadirbelkuyu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.kaggle.com/kadirbelkuyu"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=gray" /></a>
+<a href="https://kadirbelkuyu.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+## 🛠My Tools:
+<p float="left">
+<img src="https://img.icons8.com/color/144/000000/python--v2.png" width="55" hight="75">
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Devops-toolchain.svg" width="60" hight="75" style="margin-left: 10">
+<img src="https://i0.wp.com/www.landinfotech.com/wp-content/uploads/2020/08/django-logo-negative.png" width="85" hight="55" style="padding-left: 10">
+<img src="https://img.icons8.com/nolan/128/sql.png" width="55" hight="65"   style="margin-left: 10"/>
+<img src="https://logos-world.net/wp-content/uploads/2021/08/Amazon-Web-Services-AWS-Logo.png" width="115" hight="75" style="margin-left: 10">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="115" hight="125" style="margin-left: 10">
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="115" hight="75" style="margin-left: 10">
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" width="120" hight="75" style="margin-left: 10">
+
+
+</p>
+
+### The important thing is to try.
