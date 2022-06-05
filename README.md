@@ -3,7 +3,7 @@
 
 <img src=https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif width="400" height="400" align="right">
 
-## I am a DevOps Engineer | Cyber Security Specialist | Data Scientist 'Apprentice' !!
+## I am a DevOps Engineer | Cyber Security | Data Scientist 'Apprentice' !!
 - ♊️ Age: 24
 - 👨‍🎓 Education: Engineer Without Diploma
 - 👨‍💻 I am currently a DevOps Software Engineer at Konya Science Center City Technologies Unit.
