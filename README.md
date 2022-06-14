@@ -1,7 +1,7 @@
 ## Hello World, I'm Kadir 👋
 
 
-<img src=https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif width="500" height="400" align="right">
+<img src=https://cdn.dribbble.com/users/926537/screenshots/4502902/dev-ops-gif-dr.gif width="400" height="400" align="right">
 
 ## I am a DevOps Engineer | Cyber Security | Data Scientist 'Apprentice' !!
 - ♊️ Age: 24
