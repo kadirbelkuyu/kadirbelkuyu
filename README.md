@@ -1,7 +1,7 @@
 ## Hello World, I'm Kadir 👋
 
 
-<img src=https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp width="400" height="400" align="right">
+<img src=https://i.giphy.com/media/t6sWsqKTTMyNa/giphy.webp  width="400" height="400" align="right">
 
 ## I am a DevOps Engineer | Cyber Security | Data Scientist 'Apprentice' !!
 - ♊️ Age: 24
