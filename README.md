@@ -1,4 +1,4 @@
-## Hello World, I'm Kadir 👋
+## Hello, I'm Kadir 👋
 
 
 <img src=https://i.giphy.com/media/t6sWsqKTTMyNa/giphy.webp  width="400" height="400" align="right">
