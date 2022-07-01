@@ -7,7 +7,7 @@ Hi, I'm Kadir Belkuyu!
   <a href="https://github.com/kadirbelkuyu/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=000000&lines=Welcome+to+my+profile+;DevOps+Engineer;"></a>
 </p>
 
-<img height="290" align="left" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47hsyp1xaetucvtxu0yfzxy2mf5w7jkpp7s8j1gbh2&rid=giphy.gif" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
+<img height="290" align="left" src="https://bluemarkacademy.com/wp-content/uploads/2022/05/devops.webp" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 
 ```python
