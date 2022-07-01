@@ -3,11 +3,12 @@ Hi, I'm Kadir Belkuyu!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 <p align="center">
   <a href="https://github.com/kadirbelkuyu/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=000000&lines=Welcome+to+my+profile+;DevOps+Engineer;"></a>
 </p>
 
-<img height="290" align="left" src="https://bluemarkacademy.com/wp-content/uploads/2022/05/devops.webp" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="320" />
 
 
 ```python
@@ -27,7 +28,11 @@ if __name__ == '__main__':
 ```
 
 <br>
-<hr>
+
+
+<div align=center>
+        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
+    </div>
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/kadirbelku" target="_blank">
@@ -35,6 +40,10 @@ if __name__ == '__main__':
          style="height: 58px !important;width: 210px !important;" >
   </a>
 </div>
+
+<br>
+
+
 
 ## My Statistics
 
