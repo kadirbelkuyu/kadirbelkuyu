@@ -33,6 +33,8 @@ if __name__ == '__main__':
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
     </div>
+    
+    if you like what i do, maybe consider buying me a coffee/tea 
 
 <div align="center">
   <a href="https://www.buymeacoffee.com/kadirbelkuyu" target="_blank">
