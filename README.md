@@ -5,9 +5,8 @@ Hi, I'm Kadir Belkuyu!
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-<p align="center">
-  <a href="https://github.com/kadirbelkuyu/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?size=30&color=000000&lines=Welcome+to+my+profile+;I'm+a+DevOps+Engineer;"></a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&color=7B7C80&center=true&vCenter=true&lines=Welcome+to+my+profile+;I'm+a+DevOps+Engineer)](https://git.io/typing-svg)
+
 
 
 
