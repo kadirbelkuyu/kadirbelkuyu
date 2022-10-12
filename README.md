@@ -144,3 +144,8 @@ if __name__ == '__main__':
 <img alt="github contribution snake animation" src="https://github.com/kadirbelkuyu/kadirbelkuyu/blob/output/github-contribution-grid-snake.svg">
 
 <h1 align="center">The important thing is to try.</h1>
+
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
