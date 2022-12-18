@@ -1,13 +1,13 @@
 <h1 align="center">
-Hi, I'm Kadir Belkuyu!
+Hi, Nice to meet you!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<h3 align="center">
+  I am a DevOps Engineer & Backend Developer.
+</h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=30&color=7B7C80&center=true&vCenter=true&lines=Welcome+to+my+profile+;I'm+a+DevOps+Engineer)](https://git.io/typing-svg)
-
-
+[//]: # ([![Typing SVG]&#40;https://readme-typing-svg.herokuapp.com?font=&size=30&color=7B7C80&center=true&vCenter=true&lines=Welcome+to+my+profile+;I'm+a+DevOps+Engineer&#41;]&#40;https://git.io/typing-svg&#41;)
 
 
 ```python
@@ -28,12 +28,19 @@ if __name__ == '__main__':
 
 <br>
 
+<div align="center">
+  <img width="auto" height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
+  <img width="auto" height="200" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee"
+</div> 
 
-<div align=center>
-        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
 
-<br>
+[//]: <div align=center>
+[//]:        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee"  [//]:height="200">
+[//]:    </div>
+
+[//]: <br>
+
+
 
 
 
@@ -48,84 +55,53 @@ if __name__ == '__main__':
 </p>
 <br>
 
+
+
 [![kadirbelkuyu Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=kadirbelkuyu&custom_title=kadirbelkuyu%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/kadirbelkuyu)
 
 ## 🛠My Tools:
 <br>
-<table>
-<tbody>
- <tr>
-<td align="center" width="20%">
-<span><b><center>Ansible</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSEbbMBYx3DSbnzVxofkkvdV83FRA-lma9Y_Q&usqp=CAU"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>AWS</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQV9AyEyvrlIJLOfbxFLfOr03Qy5gRL0txWMQ&usqp=CAU"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Docker</center></b></span> 
-<img height=60px src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Flask</center></b></span> 
-<img height=65px src="https://www.pngitem.com/pimgs/m/159-1595977_flask-python-logo-hd-png-download.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Git</center></b></span> 
-<img height=65px src="https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Jenkins</center></b></span> 
-<img height=65px src="https://www.devteam.space/wp-content/uploads/2018/03/jenkins.jpg"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>Kubernetes</center></b></span> 
-<img height=65px src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2019/05/Kubernetes_New.png"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Linux System Administration</center></b></span> 
-<img height=65px src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png"> 
-</td>
-
-
-
-<td align="center" width="20%">
-<span><b><center>Python</center></b></span> 
-<img height=65px src="https://www.python.org/static/community_logos/python-logo.png"> 
-</td>
-</tr>
-
-<tr>
-<td align="center" width="20%">
-<span><b><center>MongoDB</center></b></span> 
-<img height=65px src="https://www.logolynx.com/images/logolynx/d5/d50b83324fb4fbab14cdfaf47409115b.jpeg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>Nginx</center></b></span> 
-<img height=65px src="https://www.logo.wine/a/logo/Nginx/Nginx-Logo.wine.svg"> 
-</td>
-
-<td align="center" width="20%">
-<span><b><center>SQL</center></b></span> 
-<img height=65px src="https://i0.wp.com/www.complexsql.com/wp-content/uploads/2017/01/sql-logo.jpg?ssl=1"> 
-</td>
-</tr>
-
-</tbody>
-</table>
+<div align="center" style="witdh:100%"> 
+  <table>
+    <tr>
+      <td valign="center" width="100px"><b>Backend<b></td>
+      <td valign="center" width="100px"><b>DevOps<b></td>
+    </tr>
+    <tr>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/Java-blue" /> 
+        <img src="https://img.shields.io/badge/Spring Boot-blue" /> 
+        <img src="https://img.shields.io/badge/Python-blue" />        
+        <img src="https://img.shields.io/badge/.Net-blue" /> 
+        <img src="https://img.shields.io/badge/Flask-blue" /> 
+        <img src="https://img.shields.io/badge/PHP-blue" /> 
+        <img src="https://img.shields.io/badge/Laravel-blue" /> 
+        <img src="https://img.shields.io/badge/Node.js-blue" /> 
+        <img src="https://img.shields.io/badge/Express-blue" /> 
+      </td>
+      <td valign="center" align="center" width="300px">
+        <img src="https://img.shields.io/badge/AWS-blue" /> 
+        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
+        <img src="https://img.shields.io/badge/Docker-blue" /> 
+        <img src="https://img.shields.io/badge/Kubernetes-blue" /> 
+        <img src="https://img.shields.io/badge/Ansible-blue" /> 
+        <img src="https://img.shields.io/badge/Jenkisn-blue" /> 
+        <img src="https://img.shields.io/badge/NoSQL-blue" /> 
+        <img src="https://img.shields.io/badge/MongoDB-blue" /> 
+        <img src="https://img.shields.io/badge/PostgreSQL-blue" />
+        <img src="https://img.shields.io/badge/git-blue" />
+         <img src="https://img.shields.io/badge/Nginx-blue" />
+         <img src="https://img.shields.io/badge/Terraform-blue" />
+         <img src="https://img.shields.io/badge/Nagios-blue" />
+         <img src="https://img.shields.io/badge/Selenium-blue" />
+         <img src="https://img.shields.io/badge/Splunk-blue" />
+         <img src="https://img.shields.io/badge/AzureDevOps-blue" />
+         <img src="https://img.shields.io/badge/Gitlab CI/CD-blue" />
+         <img src="https://img.shields.io/badge/Travis CI-blue" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### Talk with me, I am kinda awesome:
@@ -144,8 +120,8 @@ if __name__ == '__main__':
 <img alt="github contribution snake animation" src="https://github.com/kadirbelkuyu/kadirbelkuyu/blob/output/github-contribution-grid-snake.svg">
 
 <h1 align="center">The important thing is to try.</h1>
-
+  <h2 align="center"> Thanks for visiting my profile. </h2>
 <p align="center">
-        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
-</p>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
+</p>
