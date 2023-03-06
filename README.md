@@ -4,7 +4,7 @@ Hi, Nice to meet you!
 <br/>
 
 <h3 align="center">
-  I am a DevOps Engineer & Backend Developer.
+  I am a DevOps Engineer & Platform Engineer.
 </h3>
 
 [//]: # ([![Typing SVG]&#40;https://readme-typing-svg.herokuapp.com?font=&size=30&color=7B7C80&center=true&vCenter=true&lines=Welcome+to+my+profile+;I'm+a+DevOps+Engineer&#41;]&#40;https://git.io/typing-svg&#41;)
