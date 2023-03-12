@@ -41,24 +41,6 @@ if __name__ == '__main__':
 [//]: <br>
 
 
-
-
-
-## My Statistics
-
-<br/>
-<p align="left">
-  <a href="https://github.com/kadirbelkuyu">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=kadirbelkuyu&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=kadirbelkuyu&theme=gruvbox&hide_border=true" />
-  </a>
-</p>
-<br>
-
-
-
-
-
 ## 🛠My Tools:
 <br>
 <div align="center" style="witdh:100%"> 
