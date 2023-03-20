@@ -52,12 +52,8 @@ if __name__ == '__main__':
     <tr>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Java-blue" /> 
-        <img src="https://img.shields.io/badge/Spring Boot-blue" /> 
         <img src="https://img.shields.io/badge/Python-blue" />        
-        <img src="https://img.shields.io/badge/.Net-blue" /> 
-        <img src="https://img.shields.io/badge/Flask-blue" /> 
         <img src="https://img.shields.io/badge/PHP-blue" /> 
-        <img src="https://img.shields.io/badge/Laravel-blue" /> 
         <img src="https://img.shields.io/badge/Node.js-blue" /> 
         <img src="https://img.shields.io/badge/Express-blue" /> 
       </td>
