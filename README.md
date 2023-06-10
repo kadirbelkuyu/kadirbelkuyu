@@ -51,31 +51,32 @@ if __name__ == '__main__':
     </tr>
     <tr>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Java-blue" /> 
-        <img src="https://img.shields.io/badge/Python-blue" />        
-        <img src="https://img.shields.io/badge/PHP-blue" /> 
-        <img src="https://img.shields.io/badge/Node.js-blue" /> 
-        <img src="https://img.shields.io/badge/Express-blue" /> 
+        <img src="https://img.shields.io/badge/Go-blue" /> 
+        <img src="https://img.shields.io/badge/Python-blue" />
+        <img src="https://img.shields.io/badge/Flask-blue" /> 
+        <img src="https://img.shields.io/badge/Django-blue" /> 
       </td>
       <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/AWS-blue" /> 
-        <img src="https://img.shields.io/badge/CI/CD-blue" /> 
+        <img src="https://img.shields.io/badge/git-blue" />
+        <img src="https://img.shields.io/badge/AWS-blue" />  
         <img src="https://img.shields.io/badge/Docker-blue" /> 
         <img src="https://img.shields.io/badge/Kubernetes-blue" /> 
         <img src="https://img.shields.io/badge/Ansible-blue" /> 
+        <img src="https://img.shields.io/badge/Terraform-blue" />
+        <img src="https://img.shields.io/badge/CI/CD-blue" />
+        <img src="https://img.shields.io/badge/ArgoCD-blue" />
         <img src="https://img.shields.io/badge/Jenkisn-blue" /> 
+        <img src="https://img.shields.io/badge/Gitlab CI/CD-blue" />
+         <img src="https://img.shields.io/badge/Travis CI-blue" />
         <img src="https://img.shields.io/badge/NoSQL-blue" /> 
         <img src="https://img.shields.io/badge/MongoDB-blue" /> 
         <img src="https://img.shields.io/badge/PostgreSQL-blue" />
-        <img src="https://img.shields.io/badge/git-blue" />
          <img src="https://img.shields.io/badge/Nginx-blue" />
-         <img src="https://img.shields.io/badge/Terraform-blue" />
          <img src="https://img.shields.io/badge/Nagios-blue" />
          <img src="https://img.shields.io/badge/Selenium-blue" />
          <img src="https://img.shields.io/badge/Splunk-blue" />
          <img src="https://img.shields.io/badge/AzureDevOps-blue" />
-         <img src="https://img.shields.io/badge/Gitlab CI/CD-blue" />
-         <img src="https://img.shields.io/badge/Travis CI-blue" />
+         
       </td>
     </tr>
   </table>
