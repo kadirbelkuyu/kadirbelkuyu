@@ -95,7 +95,7 @@ if __name__ == '__main__':
 </p>
 
 
-<img alt="github contribution snake animation" src="https://github.com/kadirbelkuyu/kadirbelkuyu/blob/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg  ">
 
 <h1 align="center">The important thing is to try.</h1>
   <h2 align="center"> Thanks for visiting my profile. </h2>
