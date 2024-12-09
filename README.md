@@ -11,19 +11,31 @@ Hi, Nice to meet you!
 
 
 ```python
-class KadirBelkuyu():
-    
-  def __init__(self):
-    self.name = "Kadir Belkuyu";
-    self.username = "kadirbelkuyu";
-    self.location = "Turkey";
-    self.web = "https://kadirbelkuyu.dev";
-  
-  def __str__(self):
-    return self.name
+package main
 
-if __name__ == '__main__':
-    me = KadirBelkuyu()
+import "fmt"
+
+type KadirBelkuyu struct {
+    Name     string
+    Username string
+    Location string
+    Web      string
+}
+
+func (k KadirBelkuyu) String() string {
+    return k.Name
+}
+
+func main() {
+    me := KadirBelkuyu{
+        Name:     "Kadir Belkuyu",
+        Username: "kadirbelkuyu",
+        Location: "Turkey",
+        Web:      "https://kadirbelkuyu.dev",
+    }
+
+    fmt.Println(me)
+}
 ```
 
 <br>
