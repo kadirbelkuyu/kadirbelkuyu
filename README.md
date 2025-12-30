@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,1E293B,334155&height=180&section=header&text=Kadir%20Belkuyu&fontSize=55&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=DevOps%20%26%20Platform%20Engineer&descAlignY=60&descSize=20&descColor=94a3b8" width="100%" />
+  <br/>
+  <h1>Kadir Belkuyu</h1>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Cloud+%26+DevOps+Engineer;Architecting+Scalable+Cloud+Systems;Automating+Everything+As+Code" alt="Typing SVG" />
+  </a>
 </div>
 
 <br/>
@@ -31,33 +35,19 @@ I focus on **Operational Excellence**—transforming manual toil into automated,
 
 <div align="center">
 
-| **☁️ Multi-Cloud Strategy** | **⚓ Orchestration & Containers** |
-| :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=aws,gcp,azure" /><br/><img src="https://img.shields.io/badge/Google%20Anthos-4285F4?style=flat&logo=googlecloud&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux" /><br/><img src="https://img.shields.io/badge/Service%20Mesh-1E293B?style=flat&logo=istio&logoColor=white" /> |
-
-| **🔄 DevOps & IaC** | **💻 Development & Observability** |
-| :---: | :---: |
-| <img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions,argo,git" /> | <img src="https://skillicons.dev/icons?i=go,python,dotnet,prometheus,grafana" /> |
+| **☁️ Cloud & Orchestration** | **🔄 DevOps & IaC** | **💻 Dev & Observability** |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=aws,gcp,azure" /><br/><img src="https://skillicons.dev/icons?i=kubernetes,docker,linux" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions" /><br/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="40" alt="argocd" width="40"/> <img src="https://skillicons.dev/icons?i=git,bash" /> | <img src="https://skillicons.dev/icons?i=go,python,dotnet" /><br/><img src="https://skillicons.dev/icons?i=prometheus,grafana,nginx" /> |
 
 </div>
 
-<br/>
-<br/>
 
-<div align="center">
-  <a href="https://github.com/kadirbelkuyu">
-    <img src="https://github-readme-stats.vercel.app/api?username=kadirbelkuyu&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" height="150" />
-  </a>
-  <a href="https://github.com/kadirbelkuyu">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirbelkuyu&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&bg_color=00000000" height="150" />
-  </a>
-</div>
 
 <br/>
 
 <div align="center">
   <br/>
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
   <br/><br/>
   
   <i>
@@ -69,8 +59,4 @@ I focus on **Operational Excellence**—transforming manual toil into automated,
   <p align="center">― <b>Donald Knuth</b></p>
   
   <br/>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=334155,1E293B,0F172A&height=100&section=footer" width="100%" />
 </div>
