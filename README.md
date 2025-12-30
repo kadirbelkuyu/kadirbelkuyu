@@ -1,111 +1,76 @@
-<h1 align="center">
-Hi, Nice to meet you!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<br/>
-
-<h3 align="center">
-  I am a DevOps Engineer & Platform Engineer.
-</h3>
-
-[//]: # ([![Typing SVG]&#40;https://readme-typing-svg.herokuapp.com?font=&size=30&color=7B7C80&center=true&vCenter=true&lines=Welcome+to+my+profile+;I'm+a+DevOps+Engineer&#41;]&#40;https://git.io/typing-svg&#41;)
-
-
-```python
-package main
-
-import "fmt"
-
-type KadirBelkuyu struct {
-    Name     string
-    Username string
-    Location string
-    Web      string
-}
-
-func (k KadirBelkuyu) String() string {
-    return k.Name
-}
-
-func main() {
-    me := KadirBelkuyu{
-        Name:     "Kadir Belkuyu",
-        Username: "kadirbelkuyu",
-        Location: "Turkey",
-        Web:      "https://kadirbelkuyu.dev",
-    }
-
-    fmt.Println(me)
-}
-```
-
-<br>
-
 <div align="center">
-  <img width="auto" height="200" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula" alt="Readme Quotes"/>
-  <img width="auto" height="200" src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee"
-</div> 
-
-
-[//]: <div align=center>
-[//]:        <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee"  [//]:height="200">
-[//]:    </div>
-
-[//]: <br>
-
-
-## 🛠My Tools:
-<br>
-<div align="center" style="witdh:100%"> 
-  <table>
-    <tr>
-      <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>DevOps<b></td>
-    </tr>
-    <tr>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Go-blue" /> 
-        <img src="https://img.shields.io/badge/.Net-blue" />
-        <img src="https://img.shields.io/badge/Spring Boot-blue" /> 
-        <img src="https://img.shields.io/badge/Python-blue" /> 
-        <img src="https://img.shields.io/badge/Django-blue" />
-      </td>
-      <td valign="center" align="center" width="300px">
-        <img src="https://img.shields.io/badge/Git-blue" />
-        <img src="https://img.shields.io/badge/AzureDevOps-blue" />
-        <img src="https://img.shields.io/badge/AWS-blue" />  
-        <img src="https://img.shields.io/badge/Docker-blue" /> 
-        <img src="https://img.shields.io/badge/Kubernetes-blue" /> 
-        <img src="https://img.shields.io/badge/Ansible-blue" /> 
-        <img src="https://img.shields.io/badge/Terraform-blue" />
-        <img src="https://img.shields.io/badge/CI/CD-blue" />
-        <img src="https://img.shields.io/badge/ArgoCD-blue" />
-        <img src="https://img.shields.io/badge/Grafana-blue" />
-        <img src="https://img.shields.io/badge/Database Management-blue" /> 
-        <img src="https://img.shields.io/badge/Nginx-blue" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0F172A,1E293B,334155&height=180&section=header&text=Kadir%20Belkuyu&fontSize=55&fontColor=f8fafc&animation=fadeIn&fontAlignY=40&desc=DevOps%20%26%20Platform%20Engineer&descAlignY=60&descSize=20&descColor=94a3b8" width="100%" />
 </div>
 
+<br/>
 
-### Talk with me, I am kinda awesome:
-<p float="left">
-<a href="mailto:kadirbelkuyu@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/kadirbelkuyu/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://www.kaggle.com/kadirbelkuyu"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=gray" /></a>
-<a href="https://kadirbelkuyu.medium.com/"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
+<div align="center">
+  <a href="https://linkedin.com/in/kadirbelkuyu" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://kadirbelkuyu.dev" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit_Site-101010?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="mailto:kadirbelkuyu@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://kadirbelkuyu.medium.com/" target="_blank"><img src="https://img.shields.io/badge/Medium-Read_Blog-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+</div>
 
+<br/>
 
+### 👨‍💻 About Me
 
-</p>
+> **Architecting scalable systems & automating the future.**
 
+I am a **Platform Engineer** passionate about building resilient, cloud-native infrastructures. My expertise lies in bridging the gap between development and operations by implementing robust **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **Kubernetes** orchestrations across Multi-Cloud environments.
 
-<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg  ">
+I focus on **Operational Excellence**—transforming manual toil into automated, self-healing systems that allow development teams to ship code faster and more safely.
 
-<h1 align="center">The important thing is to try.</h1>
-  <h2 align="center"> Thanks for visiting my profile. </h2>
-<p align="center">
+* 🔭 **Focus:** Kubernetes, Anthos, GitOps, and Cloud Architecture.
+* 🌱 **Learning:** Advanced Go patterns and Service Mesh networking.
+* ⚡ **Philosophy:** "Automate everything, monitor the rest."
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-</p>
+---
+
+### 🛠️ Technical Inventory
+
+<div align="center">
+
+| **☁️ Multi-Cloud Strategy** | **⚓ Orchestration & Containers** |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=aws,gcp,azure" /><br/><img src="https://img.shields.io/badge/Google%20Anthos-4285F4?style=flat&logo=googlecloud&logoColor=white" /> | <img src="https://skillicons.dev/icons?i=kubernetes,docker,linux" /><br/><img src="https://img.shields.io/badge/Service%20Mesh-1E293B?style=flat&logo=istio&logoColor=white" /> |
+
+| **🔄 DevOps & IaC** | **💻 Development & Observability** |
+| :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=terraform,ansible,githubactions,argo,git" /> | <img src="https://skillicons.dev/icons?i=go,python,dotnet,prometheus,grafana" /> |
+
+</div>
+
+<br/>
+<br/>
+
+<div align="center">
+  <a href="https://github.com/kadirbelkuyu">
+    <img src="https://github-readme-stats.vercel.app/api?username=kadirbelkuyu&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&bg_color=00000000" height="150" />
+  </a>
+  <a href="https://github.com/kadirbelkuyu">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kadirbelkuyu&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6&bg_color=00000000" height="150" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <br/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  <br/><br/>
+  
+  <i>
+    <h3 align="center">
+      “I make mistakes because I’m always operating at my limit. <br/>
+      If I only stay in comfortable territory all the time, that’s not so much fun.”
+    </h3>
+  </i>
+  <p align="center">― <b>Donald Knuth</b></p>
+  
+  <br/>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=334155,1E293B,0F172A&height=100&section=footer" width="100%" />
+</div>
